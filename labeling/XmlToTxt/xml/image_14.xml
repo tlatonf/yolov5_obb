@@ -1,0 +1,28 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>image_14</filename>
+  <path>E:\OneDrive\data5_edu\HCMUT\3_Sem\HK7 (231)\5. Digital Signal Processing\Project\obb0811\train\images\image_14.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>310</width>
+    <height>163</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>153.9432</cx>
+      <cy>85.0224</cy>
+      <w>245.7495</w>
+      <h>61.0055</h>
+      <angle>0.418231</angle>
+    </robndbox>
+  </object>
+</annotation>

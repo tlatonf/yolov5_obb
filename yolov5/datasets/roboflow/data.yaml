@@ -1,0 +1,6 @@
+train: C:\Users\tlatonf\Desktop\obb0811\yolov5_obb\datasets\roboflow\train\images
+val: C:\Users\tlatonf\Desktop\obb0811\yolov5_obb\datasets\roboflow\valid\images
+test: C:\Users\tlatonf\Desktop\obb0811\yolov5_obb\datasets\roboflow\test\images
+
+nc: 1
+names: ['bottle']

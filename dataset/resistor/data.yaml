@@ -1,0 +1,6 @@
+train: C:\Users\tlatonf\Desktop\obb0811\dataset\resistor\train\images
+val: C:\Users\tlatonf\Desktop\obb0811\dataset\resistor\train\images
+test: C:\Users\tlatonf\Desktop\obb0811\dataset\resistor\test\images
+
+nc: 1
+names: ['resistor']
